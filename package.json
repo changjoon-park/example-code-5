@@ -1,0 +1,16 @@
+{
+  "name": "example-code-5",
+  "version": "1.0.0",
+  "description": "An example for loading screen in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.1.1"
+  }
+}
