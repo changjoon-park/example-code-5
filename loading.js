@@ -5,8 +5,8 @@ let loadingScreen
 function createLoadingScreen() {
   loadingScreen = new BrowserWindow(
     Object.assign({
-      width: 400,
-      height: 200,
+      width: 800,
+      height: 600,
       frame: false,
       transparent: false
     })

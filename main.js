@@ -33,7 +33,7 @@ app.on('ready', () => {
       }
       createMainWindow()
       mainWindow.show()
-    }, 2000);
+    }, 5000);
   })
 
 app.on('window-all-closed', () => {
